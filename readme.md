@@ -1,0 +1,1 @@
+The data used can be found here : https://dumps.wikimedia.org/other/pageview_complete/
